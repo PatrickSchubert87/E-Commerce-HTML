@@ -1,0 +1,16 @@
+{
+  "name": "geeksforgeeks-html-e_commerce-60-min",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrick Schubert",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.3.7",
+    "postcss": "^8.3.11",
+    "tailwindcss": "^2.2.17"
+  }
+}
